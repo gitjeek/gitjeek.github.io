@@ -4,7 +4,7 @@ title:        "scrapy通过scrapyinghub实现24小时爬虫托管爬取"
 subtitle:     "Continuous scrapy crawling by scrapyinghub"
 date:         2017-06-04 22:39:00
 author:       "Jagger"
-header-img:   "img/title_bar/lianjia-chengdu."
+header-img:   "img/title_bar/scrapying-hub.png"
 header-mask:  0.3
 catalog:      true
 multilingual: false

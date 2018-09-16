@@ -4,7 +4,7 @@ title:        "scrapy抓取成都房价信息"
 subtitle:     "Crawl Chengdu house price from lianjia.com"
 date:         2017-05-17 11:22:00
 author:       "Jagger"
-header-img:   "img/title_bar/lianjia-chengdu."
+header-img:   "img/title_bar/lianjia-chengdu.png"
 header-mask:  0.3
 catalog:      true
 multilingual: false

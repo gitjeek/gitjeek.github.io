@@ -4,7 +4,7 @@ title:        "PHP实现自动锚文本管理"
 subtitle:     "Anchor text management algorithm"
 date:         2017-06-05 9:22:00
 author:       "Jagger"
-header-img:   "img/title_bar/lianjia-chengdu."
+#header-img:   "img/title_bar/lianjia-chengdu."
 header-mask:  0.3
 catalog:      true
 multilingual: false

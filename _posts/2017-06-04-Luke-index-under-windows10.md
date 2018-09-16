@@ -4,7 +4,7 @@ title:        "Windows10下浅识Luke索引"
 subtitle:     "Luke index under Windows 10"
 date:         2017-06-04 19:39:00
 author:       "Jagger"
-header-img:   "img/title_bar/lianjia-chengdu."
+#header-img:   "img/title_bar/luke-lucene.png"
 header-mask:  0.3
 catalog:      true
 multilingual: false

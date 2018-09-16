@@ -4,7 +4,7 @@ title:        "mmseg4j/jieba中文分词包体验，以及词云分析"
 subtitle:     "mmseg4j,jieba chinese word segmentation packages"
 date:         2017-05-24 12:36:00
 author:       "Jagger"
-header-img:   "img/title_bar/lianjia-chengdu."
+#header-img:   "img/title_bar/lianjia-chengdu."
 header-mask:  0.3
 catalog:      true
 multilingual: false

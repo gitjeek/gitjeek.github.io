@@ -4,7 +4,7 @@ title:        "Solr6.5.1环境搭建+相关命令+索引查询"
 subtitle:     "Quick view on Solr 6.5.1"
 date:         2017-06-05 14:55:00
 author:       "Jagger"
-header-img:   "img/title_bar/lianjia-chengdu."
+#header-img:   "img/title_bar/solr.png"
 header-mask:  0.3
 catalog:      true
 multilingual: false
