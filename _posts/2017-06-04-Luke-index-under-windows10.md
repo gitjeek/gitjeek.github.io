@@ -154,4 +154,4 @@ Search engines luke can deal with
 
 ***
 相关推荐
-[Solr6.5.1环境搭建+相关命令+索引查询](http://www.jianshu.com/p/b507c499d0b3)
+[Solr6.5.1环境搭建+相关命令+索引查询](http://bigjag.top/2017/06/05/quike-view-on-solr/)

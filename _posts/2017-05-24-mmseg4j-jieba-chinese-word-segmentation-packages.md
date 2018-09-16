@@ -212,5 +212,5 @@ mmseg4j的匹配算法一共有三种：
 
 ***
 相关推荐
-[Solr6.5.1环境搭建+相关命令+索引查询](http://www.jianshu.com/p/b507c499d0b3)
-[Windows10下浅识Luke索引](http://www.jianshu.com/p/4ce9919fba79)
+[Solr6.5.1环境搭建+相关命令+索引查询](http://bigjag.top/2017/06/05/quike-view-on-solr/)
+[Windows10下浅识Luke索引](http://bigjag.top/2017/06/04/Luke-index-under-windows10/)

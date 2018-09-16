@@ -142,8 +142,8 @@ post提交数据生成索引
 
  ***
 相关推荐:  
-[Windows10下浅识Luke索引](http://www.jianshu.com/p/4ce9919fba79)
-[scrapy通过scrapyinghub实现24小时爬虫托管爬取](http://www.jianshu.com/p/90dcdcab5c4d)  
+[Windows10下浅识Luke索引](http://bigjag.top/2017/06/04/Luke-index-under-windows10/)
+[scrapy通过scrapyinghub实现24小时爬虫托管爬取](http://bigjag.top/2017/06/05/Anchor-text-management-through-php/)  
 参考链接:  
 http://lucene.apache.org/solr/quickstart.html
 http://blog.csdn.net/matthewei6/article/details/50620600

@@ -261,5 +261,5 @@ URL都长的不一样,难怪抓不到了!
 
 ***
 相关推荐
-[scrapy通过scrapyinghub实现24小时爬虫托管爬取](http://www.jianshu.com/p/90dcdcab5c4d)
-[scrapy抓取成都房价信息](http://www.jianshu.com/p/884cf64c1bb1)
+[scrapy通过scrapyinghub实现24小时爬虫托管爬取](http://bigjag.top/2017/06/05/Anchor-text-management-through-php/)
+[scrapy抓取成都房价信息](http://bigjag.top/2017/05/17/crawl-chengdu-house-price/)

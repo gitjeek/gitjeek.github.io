@@ -239,5 +239,5 @@ Disallow:/
 
 ***
 相关推荐  
-[scrapy通过scrapyinghub实现24小时爬虫托管爬取](http://www.jianshu.com/p/90dcdcab5c4d)  
-[scrapy抓取学院新闻报告](http://www.jianshu.com/p/ca9cafa6febf)
+[scrapy通过scrapyinghub实现24小时爬虫托管爬取](http://bigjag.top/2017/06/05/Anchor-text-management-through-php/)  
+[scrapy抓取学院新闻报告](http://bigjag.top/2017/05/16/crawl-news-from-sichuan-university/)
