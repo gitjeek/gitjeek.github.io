@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: rjagge@163.com
 description: "区块链，信息系统，代码，小事"
 keyword: "加哥, Jagger加哥, 加哥的博客, Jagger Blog, 博客, 个人网站, 互联网, 区块链，信息系统"
-url: "https://Jaggeryang.me"              # your host, for absolute URL
+url: "https://bigjag.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -67,14 +67,14 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: jaggeryang.me
+ga_domain: bigjag.top
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "这里是sidebar"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "区块链-信息系统管理-杂记<br>香港城市大学"
+sidebar-avatar: /img/avatar-jagger.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
