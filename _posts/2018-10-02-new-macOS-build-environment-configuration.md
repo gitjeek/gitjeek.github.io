@@ -40,6 +40,10 @@ tags:
 13. [OmniGraffle](https://www.omnigroup.com/omnigraffle/)，Visio替代品
 14. [番茄土豆](https://pomotodo.com/#apps)，番茄工作法，让你知道其实你一天的工作效率其实低的可怜
 15. [OneDrive](https://onedrive.live.com/about/zh-hk/download/)，微软云的桌面版，可以把仓库克隆到Finder里面实现本地无缝云同步
+16. (*********2018-10-08 更新*********）
+17. [Folx](https://mac.eltima.com/cn/download-manager.html)，BT下载工具，告别迅雷
+18. [iina](https://lhc70000.github.io/iina/)，播放工具，开源软件，完全免费,作者还是校友，厉害厉害（相关：[作者知乎](https://www.zhihu.com/people/hchen-li/answers))
+19. [1password](https://1password.com/tour/),密码管理软件，多终端密码管理
 
 ## 开发工具
 
