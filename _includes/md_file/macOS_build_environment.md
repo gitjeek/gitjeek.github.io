@@ -13,7 +13,7 @@
 ## 日常
 
 1. [网易邮箱大师](https://mail.163.com/dashi/)
-2. [网易云音乐](https://music.163.com/#/download)，关于海外用户听不了的同学，请戳这里👉🏻
+2. [网易云音乐](https://music.163.com/#/download)，关于海外用户听不了的同学，请戳这里👉🏻[网易云海外解决版权问题](https://www.zhihu.com/question/33757121/answer/73053675)
 3. [chrome](https://www.google.com/chrome/)
 4. [微信](https://weixin.qq.com/)
 5. [印象笔记](https://www.yinxiang.com/download/)
@@ -22,6 +22,7 @@
 8. [百度网盘](https://pan.baidu.com/download#pan)
 9. [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365)
 10. [MacDown](https://macdown.uranusjr.com/)，Atom上有MD撰写的插件，不过感觉没这个好用
+11. [typora](https://.io/),评论好多同学分享的另外一款MD的阅读编辑器，简单大方～
 11. [网易有道词典](http://www.youdao.com/)
 12. [Xmind](https://www.xmind.cn/)，思维导图
 13. [OmniGraffle](https://www.omnigroup.com/omnigraffle/)，Visio替代品
@@ -32,6 +33,9 @@
 18. [iina](https://lhc70000.github.io/iina/)，播放工具，开源软件，完全免费,作者还是校友，厉害厉害（相关：[作者知乎](https://www.zhihu.com/people/hchen-li/answers))
 19. [1password](https://1password.com/tour/)，密码管理软件，多终端密码管理
 20. [CAJ云阅读](https://itunes.apple.com/us/app/caj%E4%BA%91%E9%98%85%E8%AF%BB/id1121965993?mt=12)，mac版的caj阅读器，妈妈再也不用担心我下载的论文读不了了～
+21. (*********2019-01-17 更新*********）
+22. [duet](https://www.duetdisplay.com/cn/), 如果你同时拥有一个ipad的话，你一定会需要它。屏幕扩展，让你的ipad成为你的第二个屏幕～
+23. [Things3](https://culturedcode.com/things/), to-do软件，个人强推，比上面提到的番茄要好的多哈哈哈，我现在已经把番茄卸载了～
 
 ## 开发工具
 
@@ -44,6 +48,7 @@
 4. [Xcode](https://developer.apple.com/xcode/)，特别说明，mac的一些系统扩展需要xcode支持，必须下载xcode才能使用
 5. [Docker](https://www.docker.com/products/docker-desktop)，容器盒子
 6. [Atom](https://atom.io/)，GitHub官方IDE，对git有很好的支持，感觉都不会使用sourceTree了
+7. [VS Code](https://code.visualstudio.com/),另外一款IDE，微软旗下，速度性能很优秀，不输Atom，可以两个都下，同时品味，然后选择最喜欢的一款～
 7. [SourceTree](https://www.sourcetreeapp.com/)，对，就是这个软件，Git的GUI管理软件
 8. [Navicat](https://www.navicat.com/en/)，数据库管理GUI
 
@@ -66,9 +71,19 @@
 16. [AppCleaner](https://freemacsoft.net/appcleaner/)，超级小，超级好用的app删除工具
 
 ## Tips（效率提升）
-1. 大写键和control键交换一下。contorl键绑定了很多的快捷键，交换了之后可以打开快捷键世界的大门。![](https://ws1.sinaimg.cn/large/006tNc79gy1fvtx9y5192j31100vytnh.jpg)
-2. 屏幕触发角设置，提高鼠标党和单手党的工作效率。![](https://ws1.sinaimg.cn/large/006tNc79gy1fvtxb9c09lj317c0z6dud.jpg)
-3. 微信唤醒可以实现两个键的全局快捷键，简单方便。![](https://ws1.sinaimg.cn/large/006tNc79gy1fvtxd46vfsj30u40mcdnd.jpg)
-4. 全局应用唤醒可以使用‘自动操作’通过键盘的service绑定实现（貌似最少需要绑定三个按键）![](https://ws3.sinaimg.cn/large/006tNc79gy1fvtxl7czdfj31kw1a5h7j.jpg)![](https://ws1.sinaimg.cn/large/006tNc79gy1fvtxmbdfs2j317c12ik6f.jpg)
+1. 关于双系统： 目前我接触到的最完美的解决办法是Parallels Desktop+bootcamp。 日常使用可以使用pd做虚拟机，需要更强性能和稳定性的时候使用bootcamp。PD真的很强大，一张图感受一下～
+
+  ![mac和win系统完美融合](https://ws1.sinaimg.cn/large/006tNc79gy1fz9mlzqun5j31d30u0nh5.jpg)
+
+  关于更加详细的双系统教程，戳这里官方解释（有时间我自己做一个教程～）
+  [通过 Parallels Desktop 使用 Boot Camp](http://download.parallels.com/desktop/v12/docs/zh_CN/Parallels%20Desktop%20User's%20Guide/32733.htm)
+
+2. 大写键和control键交换一下。contorl键绑定了很多的快捷键，交换了之后可以打开快捷键世界的大门。![](https://ws1.sinaimg.cn/large/006tNc79gy1fvtx9y5192j31100vytnh.jpg)
+
+3. 屏幕触发角设置，提高鼠标党和单手党的工作效率。![](https://ws1.sinaimg.cn/large/006tNc79gy1fvtxb9c09lj317c0z6dud.jpg)
+
+4. 微信唤醒可以实现两个键的全局快捷键，简单方便。![](https://ws1.sinaimg.cn/large/006tNc79gy1fvtxd46vfsj30u40mcdnd.jpg)
+
+5. 全局应用唤醒可以使用‘自动操作’通过键盘的service绑定实现（貌似最少需要绑定三个按键）![](https://ws3.sinaimg.cn/large/006tNc79gy1fvtxl7czdfj31kw1a5h7j.jpg)![](https://ws1.sinaimg.cn/large/006tNc79gy1fvtxmbdfs2j317c12ik6f.jpg)
 
 想到再补充～欢迎提供意见和建议～
